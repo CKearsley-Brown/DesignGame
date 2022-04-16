@@ -1,0 +1,48 @@
+package aee926.sciencegame;
+
+import javafx.application.Application;
+import javafx.scene.Scene;
+import javafx.scene.canvas.Canvas;
+import javafx.scene.canvas.GraphicsContext;
+import javafx.scene.control.Button;
+import javafx.scene.control.Label;
+import javafx.scene.layout.Pane;
+import javafx.scene.paint.Color;
+import javafx.stage.Stage;
+
+public class ScienceGame extends Application {
+	Pane root;
+	Scene scene;
+	Canvas canvas;
+	GraphicsContext gc;
+	Label titleLabel = new Label();
+	Label gameDescription = new Label();
+	Button playButton = new Button();
+
+	public static void main(String[] args) {
+		launch(args);
+	}
+
+	@Override
+	public void start(Stage primaryStage) throws Exception {
+		root = new Pane();
+		scene = new Scene(root,800,600);
+		canvas = new Canvas(800,600);
+		gc = canvas.getGraphicsContext2D();
+		primaryStage.setScene(scene);
+		primaryStage.show();
+		
+		//Canvas Design
+		root.getChildren().add(canvas);
+		gc.setFill(Color.WHITE);
+		gc.fillRect(0,0,canvas.getWidth(),canvas.getHeight());
+		
+		//Title Page Design
+		titleLabel.setText("Defeat The Immune System!");
+		titleLabel.setLayoutX(scene.getWidth()/3);
+		titleLabel.setLayoutY(scene.getHeight()/6);
+		titleLabel.setFont(new Font("Arial", 50))
+		root.getChildren().add(titleLabel);
+	}
+
+}

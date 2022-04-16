@@ -1,0 +1,10 @@
+INDEX VERSION 1.131+C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\.metadata\.plugins\org.eclipse.jdt.core
+3453636417.index
+454877938.index
+3087702701.index
+1460743896.index
+3413725848.index
+1898684322.index
+1865797976.index
+3333041856.index
+4164794637.index

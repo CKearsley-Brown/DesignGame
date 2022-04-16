@@ -1,0 +1,10 @@
+package aee926.sciencegame;
+
+import javafx.scene.layout.Pane;
+
+public class SceneController {
+	
+	private Stage stage;
+	private Scene scene;
+	private Pane root;
+}
