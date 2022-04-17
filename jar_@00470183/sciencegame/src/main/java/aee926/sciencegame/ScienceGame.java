@@ -1,5 +1,7 @@
 package aee926.sciencegame;
 
+import java.util.ArrayList;
+
 import javafx.animation.AnimationTimer;
 import javafx.application.Application;
 import javafx.event.ActionEvent;
@@ -9,6 +11,8 @@ import javafx.scene.canvas.Canvas;
 import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
+import javafx.scene.input.KeyCode;
+import javafx.scene.input.KeyEvent;
 import javafx.scene.layout.Pane;
 import javafx.scene.paint.Color;
 import javafx.scene.text.Font;
@@ -24,13 +28,32 @@ public class ScienceGame extends Application {
 	Label gameDescription = new Label();
 	Button playButton = new Button();
 	Player player;
-	AnimationTimer timer = new AnimationTimer() {
+	Map map;
+	EventHandler<KeyEvent> keyHandler = new EventHandler<KeyEvent> () {
 
 		@Override
-		public void handle(long now) {
-			gamegc.setFill(Color.DARKRED);
-			gamegc.fillRect(0, 0, canvas.getWidth(), canvas.getHeight());
-			player.move();
+		public void handle(KeyEvent keyEvent) {
+			if(keyEvent.getCode() == KeyCode.W) {
+				player.moveUp();
+			}
+			if(keyEvent.getCode() == KeyCode.S) {
+				player.moveDown();
+			}
+			if(keyEvent.getCode() == KeyCode.A) {
+				player.moveLeft();
+			}
+			if(keyEvent.getCode() == KeyCode.D) {
+				player.moveRight();
+			}
+		}};
+	 AnimationTimer timer = new AnimationTimer() {
+
+			@Override
+			public void handle(long now) {
+				gamegc.setFill(Color.DARKRED);
+				gamegc.fillRect(0, 0, canvas.getWidth(), canvas.getHeight());
+				player.move();
+				map.checkCollision(player);
 		}};
 
 	public static void main(String[] args) {
@@ -89,10 +112,11 @@ public class ScienceGame extends Application {
 		gamegc.fillRect(0,0,canvas.getWidth(),canvas.getHeight());
 		
 		//Game Page Design
-		player = new Player(20,20,gamegc);
-		player.move();
+		player = new Player(0,270,gamegc);
+		map = new Map();
+		gamePane.getChildren().add(map.drawWalls());
 		timer.start();
-		
+		gameScene.setOnKeyPressed(keyHandler);
 		//Game Over Scene
 	}
 

@@ -1,0 +1,144 @@
+package aee926.sciencegame;
+
+import java.util.ArrayList;
+
+import javafx.scene.Group;
+import javafx.scene.Node;
+import javafx.scene.shape.Rectangle;
+
+abstract class Graphic {
+	public abstract Node draw();
+}
+
+class Wall extends Graphic {
+	private double x, y, width, height, arcWidth, arcHeight;
+	
+	public Wall(double x, double y, double width, double height)
+	{
+		this.x=x;
+		this.y=y;
+		this.width=width;
+		this.height=height;
+		arcWidth=0;
+		arcHeight=0;
+	}
+	
+	public Node draw() {
+		Rectangle r = new Rectangle();
+		r.setX(x);
+		r.setY(y);
+		r.setWidth(width);
+		r.setHeight(height);
+		r.setArcWidth(arcWidth);
+		r.setArcHeight(arcHeight);
+		return r;
+	}
+	
+}
+
+class Area extends Graphic {
+	public ArrayList<Graphic> area = new ArrayList<Graphic>();
+	Group g = new Group();
+	
+	public Area()
+	{
+		
+	}
+	
+	public Group getGroup()
+	{
+		return g;
+	}
+	
+	public void add(Graphic wall)
+	{
+		area.add(wall);
+	}
+	
+	public Node draw() {
+		for (Graphic d:area)
+		{
+			Node n = d.draw();
+			g.getChildren().add(n);
+		}
+		return g;
+	}
+}
+
+public class Map {
+	Area area;
+	
+	public Map() {
+		area = new Area();
+		Wall w1 = new Wall(0,0,800,20);
+		Wall w2 = new Wall(780,0,20,600);
+		Wall w3 = new Wall(0,580,800,20);
+		Wall w4 = new Wall(0,0,20,270);
+		Wall w5 = new Wall(0,300,20,300);
+		Wall w6 = new Wall(50,50,100,50);
+		Wall w7 = new Wall(50,130,100,20);
+		Wall w8 = new Wall(20,180,130,90);
+		Wall w9 = new Wall(20,300,130,30);
+		Wall w10 = new Wall(50,360,100,50);
+		Wall w11 = new Wall(50,440,100,60);
+		Wall w12 = new Wall(50,530,140,20);
+		Wall w13 = new Wall(180,50,30,260);
+		Wall w14 = new Wall(180,340,30,110);
+		Wall w15 = new Wall(180,480,30,20);
+		Wall w16 = new Wall(240,50,330,30);
+		
+		area.add(w1);
+		area.add(w2);
+		area.add(w3);
+		area.add(w4);
+		area.add(w5);
+		area.add(w6);
+		area.add(w7);
+		area.add(w8);
+		area.add(w9);
+		area.add(w10);
+		area.add(w11);
+		area.add(w12);
+		area.add(w13);
+		area.add(w14);
+		area.add(w15);
+		area.add(w16);
+		area.add(w17);
+		//area.add(w18);
+		//area.add(w19);
+		//area.add(w20);
+		//area.add(w21);
+		//area.add(w22);
+		//area.add(w23);
+		//area.add(w25);
+		//area.add(w26);
+		//area.add(w27);
+		//area.add(w28);
+		//area.add(w29);
+		//area.add(w30);
+		//area.add(w31);
+		//area.add(w32);
+		//area.add(w33);
+		//area.add(w34);
+		//area.add(w35);
+		//area.add(w36);
+		//area.add(w37);
+		//area.add(w38);
+		//area.add(w39);
+		//area.add(w40);
+		//area.add(w41);
+		//area.add(w42);
+		//area.add(w43);
+		//area.add(w44);
+		//area.add(w45);
+		//area.add(w46);
+		//area.add(w47);
+	}
+	
+	Node drawWalls()
+	{	
+		Group group = new Group();
+		group.getChildren().add(area.draw());
+		return group;
+	}
+}

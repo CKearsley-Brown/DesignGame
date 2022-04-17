@@ -1,0 +1,57 @@
+package aee926.sciencegame;
+
+import java.util.ArrayList;
+
+abstract class Graphic {
+	public String name;
+	public abstract void display();
+}
+
+class Leaf extends Graphic {
+	public Leaf(String name)
+	{
+		this.name=name;
+	}
+	
+	public void display() {
+		System.out.println("Name is " + name);
+	}
+	
+}
+
+class Group extends Graphic {
+	public ArrayList<Graphic> leaves = new ArrayList<Graphic>();
+	
+	public Group(String name)
+	{
+		this.name=name;
+	}
+	
+	public void add(Graphic leaf)
+	{
+		leaves.add(leaf);
+	}
+	
+	public void display()
+	{
+		for(Graphic g:leaves)
+			g.display();
+	}
+}
+
+public class Map {
+	Group root;
+	
+	public Map() {
+		root = new Group("map");
+		
+		Group polygons = new Group("polygons");
+		Leaf triangle = new Leaf("triangle");
+		Group other = new Group("other");
+		Leaf circle = new Leaf("circle");
+	}
+	
+	void renderScene(){
+		root.display();
+	}
+}

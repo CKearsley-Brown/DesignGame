@@ -1,0 +1,73 @@
+package aee926.sciencegame;
+
+import java.util.ArrayList;
+
+import javafx.scene.canvas.GraphicsContext;
+import javafx.scene.shape.Rectangle;
+
+abstract class Graphic {
+	public abstract void display(GraphicsContext gc);
+}
+
+class Wall extends Graphic {
+	public Wall()
+	{
+		Rectangle r = new Rectangle();
+		r.setX(0);
+		r.setY(0);
+		r.setWidth(200);
+		r.setHeight(100);
+		r.setArcHeight(20);
+		r.setArcHeight(20);
+	}
+	
+	public void display(GraphicsContext gc) {
+		
+	}
+	
+}
+
+class Walls extends Graphic {
+	public ArrayList<Graphic> walls = new ArrayList<Graphic>();
+	
+	public Group(String name)
+	{
+		this.name=name;
+	}
+	
+	public void add(Graphic leaf)
+	{
+		leaves.add(leaf);
+	}
+	
+	public void display()
+	{
+		for(Graphic g:leaves)
+			g.display();
+	}
+}
+
+public class Map {
+	GraphicsContext gc;
+	Group root;
+	
+	public Map(GraphicsContext gc) {
+		root = new Group("map");
+		
+		Group polygons = new Group("polygons");
+		Leaf triangle = new Leaf("triangle");
+		Group other = new Group("other");
+		Leaf circle = new Leaf("circle");
+		
+		root.add(polygons);
+		root.add(other);
+		polygons.add(triangle);
+		other.add(circle);
+		
+		renderScene();
+	}
+	
+	void renderScene(){
+		root.display();
+	}
+}
