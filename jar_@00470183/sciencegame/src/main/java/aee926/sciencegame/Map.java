@@ -9,6 +9,11 @@ import javafx.scene.shape.Rectangle;
 abstract class Graphic {
 	public abstract Node draw();
 	public abstract void checkPlayerCollision(Player player);
+	public abstract boolean checkPlayerMoveUp(Player player);
+	public abstract boolean checkPlayerMoveDown(Player player);
+	public abstract boolean checkPlayerMoveLeft(Player player);
+	public abstract boolean checkPlayerMoveRight(Player player);
+	
 }
 
 class Wall extends Graphic {
@@ -44,6 +49,49 @@ class Wall extends Graphic {
 		return r;
 	}
 	
+	public boolean checkPlayerMoveUp(Player player)
+	{
+		boolean distanced=true;
+		if(player.r.intersects(this.r.getX(),this.r.getY(),this.r.getWidth(), this.r.getHeight()+3))
+		{
+			distanced = false;
+			return distanced;
+		}
+		return distanced;
+	}
+	
+	public boolean checkPlayerMoveDown(Player player)
+	{
+		boolean distanced=true;
+		if(player.r.intersects(this.r.getX(),this.r.getY()-3,this.r.getWidth(), this.r.getHeight()))
+		{
+			distanced = false;
+			return distanced;
+		}
+		return distanced;
+	}
+	
+	public boolean checkPlayerMoveLeft(Player player)
+	{
+		boolean distanced=true;
+		if(player.r.intersects(this.r.getX(),this.r.getY(),this.r.getWidth()+3, this.r.getHeight()))
+		{
+			distanced = false;
+			return distanced;
+		}
+		return distanced;
+	}
+	
+	public boolean checkPlayerMoveRight(Player player)
+	{
+		boolean distanced=true;
+		if(player.r.intersects(this.r.getX()-3,this.r.getY(),this.r.getWidth(), this.r.getHeight()))
+		{
+			distanced = false;
+			return distanced;
+		}
+		return distanced;
+	}
 }
 
 class Area extends Graphic {
@@ -75,6 +123,62 @@ class Area extends Graphic {
 			g.getChildren().add(n);
 		}
 		return g;
+	}
+	
+	public boolean checkPlayerMoveUp(Player player)
+	{
+		boolean test = true;
+		for (Graphic d:area)
+		{
+			if(d.checkPlayerMoveUp(player)==false)
+			{
+				test=false;
+				break;
+			};
+		}
+		return test;
+	}
+	
+	public boolean checkPlayerMoveDown(Player player)
+	{
+		boolean test = true;
+		for (Graphic d:area)
+		{
+			if(d.checkPlayerMoveDown(player)==false)
+			{
+				test=false;
+				break;
+			};
+		}
+		return test;
+	}
+	
+	public boolean checkPlayerMoveLeft(Player player)
+	{
+		boolean test = true;
+		for (Graphic d:area)
+		{
+			if(d.checkPlayerMoveLeft(player)==false)
+			{
+				test=false;
+				break;
+			};
+		}
+		return test;
+	}
+	
+	public boolean checkPlayerMoveRight(Player player)
+	{
+		boolean test = true;
+		for (Graphic d:area)
+		{
+			if(d.checkPlayerMoveRight(player)==false)
+			{
+				test=false;
+				break;
+			};
+		}
+		return test;
 	}
 }
 
@@ -128,6 +232,7 @@ public class Map {
 		Wall w43 = new Wall(740,440,10,60);
 		Wall w44 = new Wall(580,530,170,20);
 		Wall w45 = new Wall(580,380,10,120);
+		Wall w46 = new Wall(0,260,1,120);
 		
 		area.add(w1);
 		area.add(w2);
@@ -174,6 +279,7 @@ public class Map {
 		area.add(w43);
 		area.add(w44);
 		area.add(w45);
+		area.add(w46);
 	}
 	
 	Node drawWalls()
@@ -186,5 +292,29 @@ public class Map {
 	void checkCollision(Player player)
 	{
 		area.checkPlayerCollision(player);
+	}
+	
+	void checkPlayerMoveUp(Player player)
+	{
+		if(area.checkPlayerMoveUp(player)==true)
+			player.moveUp();
+	}
+	
+	void checkPlayerMoveDown(Player player)
+	{
+		if(area.checkPlayerMoveDown(player)==true)
+			player.moveDown();
+	}
+	
+	void checkPlayerMoveLeft(Player player)
+	{
+		if(area.checkPlayerMoveLeft(player)==true)
+			player.moveLeft();
+	}
+	
+	void checkPlayerMoveRight(Player player)
+	{
+		if(area.checkPlayerMoveRight(player)==true)
+			player.moveRight();
 	}
 }

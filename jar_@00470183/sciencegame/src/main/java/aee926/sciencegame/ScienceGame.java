@@ -29,21 +29,23 @@ public class ScienceGame extends Application {
 	Button playButton = new Button();
 	Player player;
 	Map map;
+	ArrayList<GameObject> list = new ArrayList<GameObject>();
+	Factory factory;
 	EventHandler<KeyEvent> keyHandler = new EventHandler<KeyEvent> () {
 
 		@Override
 		public void handle(KeyEvent keyEvent) {
 			if(keyEvent.getCode() == KeyCode.W) {
-				player.moveUp();
+				map.checkPlayerMoveUp(player);
 			}
 			if(keyEvent.getCode() == KeyCode.S) {
-				player.moveDown();
+				map.checkPlayerMoveDown(player);
 			}
 			if(keyEvent.getCode() == KeyCode.A) {
-				player.moveLeft();
+				map.checkPlayerMoveLeft(player);
 			}
 			if(keyEvent.getCode() == KeyCode.D) {
-				player.moveRight();
+				map.checkPlayerMoveRight(player);
 			}
 		}};
 	 AnimationTimer timer = new AnimationTimer() {
@@ -54,6 +56,10 @@ public class ScienceGame extends Application {
 				gamegc.fillRect(0, 0, canvas.getWidth(), canvas.getHeight());
 				player.move();
 				map.checkCollision(player);
+				for(GameObject obj:list) 
+				{
+					obj.update();
+				}
 		}};
 
 	public static void main(String[] args) {
@@ -112,11 +118,14 @@ public class ScienceGame extends Application {
 		gamegc.fillRect(0,0,canvas.getWidth(),canvas.getHeight());
 		
 		//Game Page Design
-		player = new Player(0,270,gamegc);
+		player = new Player(1,271,gamegc);
 		map = new Map();
 		gamePane.getChildren().add(map.drawWalls());
-		timer.start();
 		gameScene.setOnKeyPressed(keyHandler);
+		
+		factory = new Factory(gamegc);
+		list.add(factory.createProduct("cell", 20, 20));
+		timer.start();
 		//Game Over Scene
 	}
 

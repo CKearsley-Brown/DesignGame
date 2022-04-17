@@ -4,16 +4,15 @@ import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.image.Image;
 import javafx.scene.shape.Rectangle;
 
-public class Player {
+public class Player extends GameObject {
 	private double x,y;
 	private GraphicsContext gc;
 	private Image img;
-	private double dx=1, dy=1;
-	private double width=30, height=30;
+	private double width=28, height=28;
 	protected Rectangle r;
 	
 	public Player(double x, double y, GraphicsContext gc) {
-		super();
+		super(gc,x,y);
 		this.x = x;
 		this.y = y;
 		this.gc = gc;

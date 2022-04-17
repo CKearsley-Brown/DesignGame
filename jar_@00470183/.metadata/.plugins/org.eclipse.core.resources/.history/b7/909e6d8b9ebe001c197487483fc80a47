@@ -1,0 +1,16 @@
+package aee926.sciencegame;
+
+import javafx.scene.canvas.GraphicsContext;
+import javafx.scene.image.Image;
+import javafx.scene.shape.Rectangle;
+
+public class Item extends GameObject {
+	private double x,y;
+	private GraphicsContext gc;
+	private Image img;
+	private double dx=1, dy=1;
+	private double width=28, height=28;
+	protected Rectangle r;
+	
+	
+}

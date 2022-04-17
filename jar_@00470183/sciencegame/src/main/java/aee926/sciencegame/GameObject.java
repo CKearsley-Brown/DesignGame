@@ -18,6 +18,6 @@ public class GameObject {
 	public void update() 
 	{
 		if(img!=null)
-			gc.drawImage(img, x, y,30,30);
+			gc.drawImage(img, x, y,26,26);
 	}
 }

@@ -2402,3 +2402,785 @@
 2022-04-17 17:48:39,271 [Worker-233: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
 2022-04-17 17:48:39,272 [Worker-233: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-04-17 17:48:39,272 [Worker-233: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 17:56:04,118 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 17:56:04,118 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 17:56:04,119 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 17:56:04,119 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 17:56:49,545 [Worker-227: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 17:56:49,546 [Worker-227: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 17:56:49,546 [Worker-227: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 17:56:49,546 [Worker-227: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 17:57:08,899 [Worker-234: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 17:57:08,899 [Worker-234: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 17:57:08,899 [Worker-234: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 17:57:08,900 [Worker-234: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 17:57:52,683 [Worker-234: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 17:57:52,684 [Worker-234: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 17:57:52,684 [Worker-234: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 17:57:52,685 [Worker-234: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 18:06:27,764 [Worker-234: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:06:27,764 [Worker-234: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 18:06:27,765 [Worker-234: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:06:27,765 [Worker-234: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 18:10:40,253 [Worker-240: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:10:40,253 [Worker-240: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 18:10:40,253 [Worker-240: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:10:40,253 [Worker-240: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 18:12:10,492 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:12:10,492 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 18:12:10,493 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:12:10,493 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 18:12:31,691 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:12:31,691 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 18:12:31,691 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:12:31,692 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 18:12:44,080 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:12:44,080 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 18:12:44,081 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:12:44,081 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 18:14:21,389 [Worker-241: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:14:21,389 [Worker-241: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 18:14:21,389 [Worker-241: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:14:21,390 [Worker-241: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 18:15:35,637 [Worker-241: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:15:35,637 [Worker-241: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 18:15:35,638 [Worker-241: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:15:35,638 [Worker-241: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 18:16:05,589 [Worker-240: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:16:05,589 [Worker-240: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 18:16:05,589 [Worker-240: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:16:05,590 [Worker-240: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 18:17:34,940 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:17:34,940 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 18:17:34,941 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:17:34,941 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 18:18:06,512 [Worker-240: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:18:06,512 [Worker-240: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 18:18:06,512 [Worker-240: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:18:06,512 [Worker-240: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 18:21:43,035 [Worker-240: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:21:43,035 [Worker-240: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 18:21:43,035 [Worker-240: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:21:43,035 [Worker-240: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 18:22:00,040 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:22:00,040 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 18:22:00,040 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:22:00,041 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 18:22:08,473 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:22:08,474 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 18:22:08,474 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:22:08,474 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 18:24:01,417 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:24:01,417 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 18:24:01,418 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:24:01,418 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 18:26:45,985 [Worker-250: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:26:45,985 [Worker-250: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 18:26:45,985 [Worker-250: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:26:45,986 [Worker-250: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 18:30:18,680 [Worker-252: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:30:18,680 [Worker-252: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 18:30:18,680 [Worker-252: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:30:18,681 [Worker-252: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 18:45:15,593 [Worker-257: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:45:15,594 [Worker-257: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 18:45:15,594 [Worker-257: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:45:15,594 [Worker-257: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 18:47:00,285 [Worker-256: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:47:00,286 [Worker-256: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 18:47:00,286 [Worker-256: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:47:00,286 [Worker-256: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 18:47:23,709 [Worker-260: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:47:23,709 [Worker-260: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 18:47:23,710 [Worker-260: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:47:23,710 [Worker-260: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 18:47:35,143 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:47:35,143 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 18:47:35,144 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:47:35,144 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 18:48:13,840 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:48:13,840 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 18:48:13,841 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:48:13,841 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 18:48:42,726 [Worker-257: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:48:42,726 [Worker-257: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 18:48:42,727 [Worker-257: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 18:48:42,727 [Worker-257: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 18:49:36,532 [Worker-262: Debug Source Lookup] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-base/13-ea+14b/javafx-base-13-ea+14b-sources.jar
+2022-04-17 18:49:36,780 [Worker-262: Debug Source Lookup] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-base/13-ea+14b/javafx-base-13-ea+14b-sources.jar
+2022-04-17 20:06:08,329 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:06:08,332 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 20:06:08,333 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:06:08,333 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 20:20:42,060 [Worker-276: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:20:42,060 [Worker-276: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 20:20:42,061 [Worker-276: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:20:42,061 [Worker-276: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 20:21:56,448 [Worker-274: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:21:56,448 [Worker-274: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 20:21:56,449 [Worker-274: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:21:56,449 [Worker-274: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 20:24:04,309 [Worker-278: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:24:04,309 [Worker-278: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 20:24:04,309 [Worker-278: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:24:04,309 [Worker-278: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 20:24:36,492 [Worker-278: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:24:36,493 [Worker-278: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 20:24:36,494 [Worker-278: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:24:36,494 [Worker-278: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 20:24:48,717 [Worker-277: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:24:48,717 [Worker-277: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 20:24:48,718 [Worker-277: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:24:48,718 [Worker-277: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 20:39:43,470 [Worker-277: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:39:43,470 [Worker-277: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 20:39:43,471 [Worker-277: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:39:43,471 [Worker-277: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 20:47:34,147 [Worker-274: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:47:34,147 [Worker-274: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 20:47:34,148 [Worker-274: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:47:34,148 [Worker-274: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 20:48:45,761 [Worker-281: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:48:45,761 [Worker-281: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 20:48:45,762 [Worker-281: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:48:45,762 [Worker-281: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 20:49:50,556 [Worker-281: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:49:50,556 [Worker-281: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 20:49:50,557 [Worker-281: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:49:50,557 [Worker-281: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 20:50:26,535 [Worker-281: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:50:26,535 [Worker-281: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 20:50:26,536 [Worker-281: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:50:26,536 [Worker-281: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 20:51:43,925 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:51:43,925 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 20:51:43,925 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:51:43,925 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 20:51:57,514 [Worker-281: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:51:57,514 [Worker-281: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 20:51:57,514 [Worker-281: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:51:57,514 [Worker-281: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 20:52:17,033 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:52:17,033 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 20:52:17,034 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:52:17,034 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 20:52:28,994 [Worker-274: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:52:28,995 [Worker-274: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 20:52:28,995 [Worker-274: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:52:28,995 [Worker-274: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 20:53:24,978 [Worker-281: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:53:24,978 [Worker-281: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 20:53:24,978 [Worker-281: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:53:24,978 [Worker-281: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 20:55:00,679 [Worker-288: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:55:00,679 [Worker-288: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 20:55:00,679 [Worker-288: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:55:00,679 [Worker-288: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 20:55:08,170 [Worker-281: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:55:08,170 [Worker-281: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 20:55:08,170 [Worker-281: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:55:08,170 [Worker-281: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 20:55:46,673 [Worker-285: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:55:46,674 [Worker-285: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 20:55:46,674 [Worker-285: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:55:46,674 [Worker-285: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 20:56:13,616 [Worker-274: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:56:13,616 [Worker-274: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 20:56:13,616 [Worker-274: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:56:13,617 [Worker-274: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 20:56:19,349 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:56:19,349 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 20:56:19,349 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:56:19,349 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 20:56:38,731 [Worker-274: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:56:38,732 [Worker-274: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 20:56:38,732 [Worker-274: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:56:38,732 [Worker-274: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 20:58:34,639 [Worker-288: Launching ScienceGame] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:58:34,639 [Worker-288: Launching ScienceGame] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 20:58:34,640 [Worker-288: Launching ScienceGame] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:58:34,640 [Worker-288: Launching ScienceGame] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 20:58:47,551 [Worker-281: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:58:47,551 [Worker-281: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 20:58:47,552 [Worker-281: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:58:47,552 [Worker-281: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 20:58:54,559 [Worker-288: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:58:54,559 [Worker-288: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 20:58:54,560 [Worker-288: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:58:54,560 [Worker-288: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 20:59:48,265 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:59:48,265 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 20:59:48,265 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 20:59:48,265 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 21:00:03,668 [Worker-289: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:00:03,668 [Worker-289: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 21:00:03,668 [Worker-289: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:00:03,668 [Worker-289: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 21:02:57,006 [Worker-285: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:02:57,006 [Worker-285: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 21:02:57,006 [Worker-285: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:02:57,006 [Worker-285: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 21:05:14,045 [Worker-291: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:05:14,045 [Worker-291: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 21:05:14,046 [Worker-291: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:05:14,046 [Worker-291: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 21:05:17,150 [Worker-292: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:05:17,150 [Worker-292: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 21:05:17,150 [Worker-292: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:05:17,150 [Worker-292: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 21:07:11,313 [Worker-295: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:07:11,313 [Worker-295: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 21:07:11,314 [Worker-295: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:07:11,314 [Worker-295: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 21:18:42,844 [Worker-291: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:18:42,844 [Worker-291: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 21:18:42,844 [Worker-291: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:18:42,845 [Worker-291: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 21:18:48,036 [Worker-298: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:18:48,036 [Worker-298: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 21:18:48,036 [Worker-298: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:18:48,036 [Worker-298: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 21:19:04,818 [Worker-293: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:19:04,818 [Worker-293: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 21:19:04,819 [Worker-293: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:19:04,819 [Worker-293: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 21:21:35,152 [Worker-297: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:21:35,152 [Worker-297: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 21:21:35,152 [Worker-297: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:21:35,152 [Worker-297: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 21:21:42,187 [Worker-302: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:21:42,187 [Worker-302: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 21:21:42,187 [Worker-302: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:21:42,187 [Worker-302: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 21:22:03,800 [Worker-300: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:22:03,800 [Worker-300: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 21:22:03,800 [Worker-300: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:22:03,800 [Worker-300: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 21:24:03,293 [Worker-302: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:24:03,293 [Worker-302: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 21:24:03,293 [Worker-302: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:24:03,293 [Worker-302: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 21:24:24,119 [Worker-302: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:24:24,119 [Worker-302: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 21:24:24,119 [Worker-302: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:24:24,119 [Worker-302: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 21:27:47,841 [Worker-308: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:27:47,841 [Worker-308: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 21:27:47,841 [Worker-308: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:27:47,841 [Worker-308: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 21:28:45,227 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:28:45,227 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 21:28:45,227 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:28:45,227 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 21:45:31,673 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:45:31,674 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 21:45:31,674 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:45:31,674 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 21:46:15,540 [Worker-311: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:46:15,540 [Worker-311: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 21:46:15,540 [Worker-311: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:46:15,540 [Worker-311: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 21:46:44,352 [Worker-311: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:46:44,352 [Worker-311: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 21:46:44,353 [Worker-311: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:46:44,353 [Worker-311: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 21:47:26,502 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:47:26,502 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 21:47:26,503 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:47:26,503 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 21:47:39,241 [Worker-311: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:47:39,242 [Worker-311: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 21:47:39,242 [Worker-311: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:47:39,242 [Worker-311: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 21:47:53,463 [Worker-314: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:47:53,464 [Worker-314: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 21:47:53,464 [Worker-314: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:47:53,464 [Worker-314: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 21:48:12,235 [Worker-311: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:48:12,235 [Worker-311: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 21:48:12,235 [Worker-311: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:48:12,235 [Worker-311: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 21:48:41,062 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:48:41,062 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 21:48:41,062 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:48:41,063 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 21:48:47,260 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:48:47,260 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 21:48:47,260 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:48:47,260 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 21:49:05,724 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:49:05,724 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 21:49:05,724 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:49:05,724 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 21:49:50,630 [Worker-307: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:49:50,630 [Worker-307: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 21:49:50,630 [Worker-307: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:49:50,630 [Worker-307: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 21:50:32,844 [Worker-314: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:50:32,844 [Worker-314: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 21:50:32,844 [Worker-314: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:50:32,845 [Worker-314: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 21:50:58,863 [Worker-311: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:50:58,863 [Worker-311: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 21:50:58,863 [Worker-311: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:50:58,863 [Worker-311: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 21:52:24,530 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:52:24,530 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 21:52:24,531 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:52:24,531 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 21:55:33,211 [Worker-307: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:55:33,211 [Worker-307: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 21:55:33,211 [Worker-307: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:55:33,212 [Worker-307: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 21:56:18,293 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:56:18,293 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 21:56:18,293 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:56:18,294 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 21:56:21,544 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:56:21,545 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 21:56:21,545 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:56:21,545 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 21:57:57,448 [Worker-317: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:57:57,448 [Worker-317: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 21:57:57,449 [Worker-317: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:57:57,449 [Worker-317: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 21:58:30,379 [Worker-307: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:58:30,379 [Worker-307: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 21:58:30,379 [Worker-307: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:58:30,379 [Worker-307: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 21:58:38,617 [Worker-317: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:58:38,617 [Worker-317: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 21:58:38,617 [Worker-317: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 21:58:38,617 [Worker-317: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:00:08,251 [Worker-307: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:00:08,252 [Worker-307: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:00:08,252 [Worker-307: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:00:08,252 [Worker-307: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:00:38,091 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:00:38,091 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:00:38,091 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:00:38,091 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:03:37,974 [Worker-320: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:03:37,974 [Worker-320: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:03:37,974 [Worker-320: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:03:37,974 [Worker-320: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:03:53,606 [Worker-316: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:03:53,606 [Worker-316: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:03:53,606 [Worker-316: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:03:53,606 [Worker-316: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:04:38,589 [Worker-307: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:04:38,589 [Worker-307: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:04:38,589 [Worker-307: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:04:38,589 [Worker-307: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:04:51,805 [Worker-316: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:04:51,806 [Worker-316: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:04:51,806 [Worker-316: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:04:51,806 [Worker-316: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:04:58,044 [Worker-319: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:04:58,044 [Worker-319: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:04:58,045 [Worker-319: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:04:58,045 [Worker-319: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:07:47,470 [Worker-319: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:07:47,470 [Worker-319: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:07:47,470 [Worker-319: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:07:47,470 [Worker-319: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:08:08,205 [Worker-318: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:08:08,205 [Worker-318: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:08:08,206 [Worker-318: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:08:08,206 [Worker-318: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:08:21,284 [Worker-323: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:08:21,285 [Worker-323: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:08:21,285 [Worker-323: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:08:21,285 [Worker-323: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:08:35,965 [Worker-322: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:08:35,965 [Worker-322: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:08:35,965 [Worker-322: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:08:35,965 [Worker-322: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:09:06,145 [Worker-322: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:09:06,146 [Worker-322: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:09:06,146 [Worker-322: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:09:06,146 [Worker-322: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:09:40,532 [Worker-318: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:09:40,532 [Worker-318: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:09:40,533 [Worker-318: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:09:40,533 [Worker-318: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:09:44,172 [Worker-323: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:09:44,172 [Worker-323: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:09:44,172 [Worker-323: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:09:44,173 [Worker-323: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:10:39,962 [Worker-323: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:10:39,963 [Worker-323: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:10:39,963 [Worker-323: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:10:39,963 [Worker-323: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:10:56,235 [Worker-321: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:10:56,236 [Worker-321: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:10:56,236 [Worker-321: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:10:56,236 [Worker-321: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:11:13,338 [Worker-319: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:11:13,338 [Worker-319: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:11:13,338 [Worker-319: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:11:13,338 [Worker-319: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:12:44,463 [Worker-319: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:12:44,463 [Worker-319: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:12:44,463 [Worker-319: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:12:44,463 [Worker-319: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:13:40,017 [Worker-324: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:13:40,017 [Worker-324: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:13:40,017 [Worker-324: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:13:40,017 [Worker-324: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:15:01,848 [Worker-322: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:15:01,848 [Worker-322: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:15:01,848 [Worker-322: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:15:01,848 [Worker-322: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:15:20,476 [Worker-325: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:15:20,477 [Worker-325: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:15:20,477 [Worker-325: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:15:20,477 [Worker-325: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:16:08,340 [Worker-324: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:16:08,340 [Worker-324: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:16:08,341 [Worker-324: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:16:08,341 [Worker-324: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:16:25,633 [Worker-322: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:16:25,633 [Worker-322: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:16:25,634 [Worker-322: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:16:25,634 [Worker-322: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:16:49,518 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:16:49,518 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:16:49,519 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:16:49,519 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:17:07,111 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:17:07,112 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:17:07,112 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:17:07,112 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:17:21,015 [Worker-328: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:17:21,016 [Worker-328: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:17:21,016 [Worker-328: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:17:21,016 [Worker-328: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:17:31,964 [Worker-322: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:17:31,964 [Worker-322: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:17:31,964 [Worker-322: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:17:31,964 [Worker-322: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:17:50,933 [Worker-325: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:17:50,933 [Worker-325: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:17:50,934 [Worker-325: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:17:50,934 [Worker-325: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:18:10,293 [Worker-327: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:18:10,293 [Worker-327: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:18:10,293 [Worker-327: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:18:10,293 [Worker-327: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:20:46,807 [Worker-329: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:20:46,808 [Worker-329: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:20:46,808 [Worker-329: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:20:46,808 [Worker-329: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:20:55,409 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:20:55,410 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:20:55,410 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:20:55,410 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:20:59,115 [Worker-324: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:20:59,116 [Worker-324: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:20:59,116 [Worker-324: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:20:59,116 [Worker-324: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:21:17,819 [Worker-327: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:21:17,820 [Worker-327: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:21:17,820 [Worker-327: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:21:17,820 [Worker-327: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:22:45,539 [Worker-329: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:22:45,540 [Worker-329: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:22:45,540 [Worker-329: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:22:45,540 [Worker-329: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:23:23,731 [Worker-330: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:23:23,732 [Worker-330: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:23:23,732 [Worker-330: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:23:23,732 [Worker-330: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:23:32,354 [Worker-331: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:23:32,354 [Worker-331: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:23:32,354 [Worker-331: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:23:32,354 [Worker-331: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:23:55,215 [Worker-329: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:23:55,216 [Worker-329: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:23:55,216 [Worker-329: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:23:55,216 [Worker-329: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:24:38,320 [Worker-330: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:24:38,320 [Worker-330: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:24:38,321 [Worker-330: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:24:38,321 [Worker-330: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:24:44,397 [Worker-322: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:24:44,397 [Worker-322: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:24:44,397 [Worker-322: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:24:44,397 [Worker-322: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:25:06,677 [Worker-332: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:25:06,677 [Worker-332: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:25:06,677 [Worker-332: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:25:06,677 [Worker-332: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:25:29,704 [Worker-322: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:25:29,704 [Worker-322: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:25:29,705 [Worker-322: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:25:29,705 [Worker-322: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:25:58,938 [Worker-329: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:25:58,938 [Worker-329: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:25:58,939 [Worker-329: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:25:58,939 [Worker-329: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:26:04,500 [Worker-331: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:26:04,500 [Worker-331: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:26:04,500 [Worker-331: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:26:04,500 [Worker-331: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:26:22,933 [Worker-329: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:26:22,933 [Worker-329: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:26:22,934 [Worker-329: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:26:22,934 [Worker-329: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:27:40,495 [Worker-329: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:27:40,495 [Worker-329: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:27:40,496 [Worker-329: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:27:40,496 [Worker-329: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:27:53,839 [Worker-322: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:27:53,839 [Worker-322: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:27:53,839 [Worker-322: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:27:53,840 [Worker-322: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:28:33,699 [Worker-333: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:28:33,699 [Worker-333: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:28:33,699 [Worker-333: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:28:33,699 [Worker-333: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:29:06,015 [Worker-330: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:29:06,015 [Worker-330: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:29:06,015 [Worker-330: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:29:06,015 [Worker-330: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:29:24,897 [Worker-331: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:29:24,898 [Worker-331: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:29:24,898 [Worker-331: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:29:24,898 [Worker-331: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:31:43,892 [Worker-332: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:31:43,892 [Worker-332: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:31:43,892 [Worker-332: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:31:43,892 [Worker-332: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:31:53,769 [Worker-333: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:31:53,769 [Worker-333: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:31:53,769 [Worker-333: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:31:53,769 [Worker-333: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:32:14,333 [Worker-330: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:32:14,333 [Worker-330: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:32:14,334 [Worker-330: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:32:14,334 [Worker-330: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:32:19,971 [Worker-330: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:32:19,971 [Worker-330: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:32:19,971 [Worker-330: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:32:19,971 [Worker-330: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:32:57,065 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:32:57,065 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:32:57,066 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:32:57,066 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:33:52,005 [Worker-329: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:33:52,006 [Worker-329: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:33:52,006 [Worker-329: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:33:52,006 [Worker-329: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:34:09,676 [Worker-333: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:34:09,676 [Worker-333: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:34:09,676 [Worker-333: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:34:09,677 [Worker-333: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:34:47,146 [Worker-329: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:34:47,146 [Worker-329: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:34:47,147 [Worker-329: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:34:47,147 [Worker-329: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:34:55,788 [Worker-332: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:34:55,788 [Worker-332: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:34:55,788 [Worker-332: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:34:55,788 [Worker-332: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:35:28,757 [Worker-330: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:35:28,757 [Worker-330: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:35:28,757 [Worker-330: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:35:28,757 [Worker-330: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:35:47,395 [Worker-331: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:35:47,395 [Worker-331: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:35:47,396 [Worker-331: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:35:47,396 [Worker-331: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:36:24,304 [Worker-332: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:36:24,304 [Worker-332: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:36:24,304 [Worker-332: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:36:24,304 [Worker-332: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 22:38:58,069 [Worker-333: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:38:58,070 [Worker-333: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 22:38:58,070 [Worker-333: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 22:38:58,070 [Worker-333: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 23:25:30,133 [Worker-341: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 23:25:30,133 [Worker-341: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 23:25:30,133 [Worker-341: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 23:25:30,133 [Worker-341: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 23:26:17,486 [Worker-335: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 23:26:17,486 [Worker-335: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 23:26:17,486 [Worker-335: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 23:26:17,486 [Worker-335: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 23:26:22,877 [Worker-340: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 23:26:22,877 [Worker-340: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 23:26:22,877 [Worker-340: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 23:26:22,877 [Worker-340: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 23:29:25,094 [Worker-341: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 23:29:25,094 [Worker-341: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 23:29:25,094 [Worker-341: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 23:29:25,095 [Worker-341: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 23:30:49,647 [Worker-342: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 23:30:49,647 [Worker-342: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 23:30:49,647 [Worker-342: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 23:30:49,647 [Worker-342: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 23:31:06,361 [Worker-344: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 23:31:06,362 [Worker-344: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 23:31:06,362 [Worker-344: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 23:31:06,362 [Worker-344: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 23:31:28,022 [Worker-344: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 23:31:28,022 [Worker-344: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 23:31:28,022 [Worker-344: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 23:31:28,022 [Worker-344: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 23:31:36,382 [Worker-342: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 23:31:36,382 [Worker-342: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 23:31:36,382 [Worker-342: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 23:31:36,383 [Worker-342: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 23:34:10,395 [Worker-343: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 23:34:10,395 [Worker-343: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 23:34:10,395 [Worker-343: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 23:34:10,395 [Worker-343: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 23:34:29,621 [Worker-346: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 23:34:29,621 [Worker-346: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 23:34:29,622 [Worker-346: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 23:34:29,622 [Worker-346: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 23:34:49,574 [Worker-346: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 23:34:49,574 [Worker-346: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 23:34:49,575 [Worker-346: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 23:34:49,575 [Worker-346: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 23:34:53,371 [Worker-343: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 23:34:53,372 [Worker-343: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 23:34:53,372 [Worker-343: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 23:34:53,372 [Worker-343: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 23:35:06,180 [Worker-347: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 23:35:06,180 [Worker-347: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 23:35:06,180 [Worker-347: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 23:35:06,180 [Worker-347: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 23:35:10,582 [Worker-343: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 23:35:10,582 [Worker-343: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 23:35:10,582 [Worker-343: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 23:35:10,582 [Worker-343: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 23:49:22,368 [Worker-349: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 23:49:22,368 [Worker-349: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 23:49:22,368 [Worker-349: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 23:49:22,368 [Worker-349: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-17 23:58:32,105 [Worker-350: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 23:58:32,105 [Worker-350: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-17 23:58:32,106 [Worker-350: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 23:58:32,106 [Worker-350: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-18 00:03:16,945 [Worker-350: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:03:16,945 [Worker-350: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-18 00:03:16,945 [Worker-350: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:03:16,945 [Worker-350: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-18 00:03:30,845 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:03:30,845 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-18 00:03:30,846 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:03:30,846 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-18 00:04:51,723 [Worker-356: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:04:51,723 [Worker-356: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-18 00:04:51,723 [Worker-356: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:04:51,723 [Worker-356: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-18 00:05:10,277 [Worker-355: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:05:10,277 [Worker-355: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-18 00:05:10,277 [Worker-355: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:05:10,277 [Worker-355: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-18 00:05:29,210 [Worker-357: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:05:29,211 [Worker-357: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-18 00:05:29,211 [Worker-357: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:05:29,211 [Worker-357: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-18 00:06:55,490 [Worker-350: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:06:55,490 [Worker-350: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-18 00:06:55,490 [Worker-350: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:06:55,490 [Worker-350: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-18 00:07:12,026 [Worker-357: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:07:12,026 [Worker-357: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-18 00:07:12,026 [Worker-357: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:07:12,026 [Worker-357: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-18 00:08:14,791 [Worker-355: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:08:14,791 [Worker-355: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-18 00:08:14,791 [Worker-355: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:08:14,791 [Worker-355: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-18 00:08:27,453 [Worker-356: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:08:27,453 [Worker-356: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-18 00:08:27,454 [Worker-356: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:08:27,454 [Worker-356: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-18 00:10:42,478 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:10:42,478 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-18 00:10:42,478 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:10:42,478 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-18 00:10:55,222 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:10:55,222 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-18 00:10:55,223 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:10:55,223 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-18 00:13:39,270 [Worker-358: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:13:39,270 [Worker-358: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-18 00:13:39,271 [Worker-358: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:13:39,271 [Worker-358: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-18 00:13:45,867 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:13:45,867 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-18 00:13:45,867 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:13:45,867 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-18 00:14:12,052 [Worker-359: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:14:12,053 [Worker-359: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-18 00:14:12,053 [Worker-359: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:14:12,053 [Worker-359: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-18 00:15:34,713 [Worker-358: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:15:34,713 [Worker-358: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-18 00:15:34,713 [Worker-358: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:15:34,713 [Worker-358: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-18 00:16:07,850 [Worker-358: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:16:07,850 [Worker-358: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-18 00:16:07,851 [Worker-358: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:16:07,851 [Worker-358: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-18 00:17:14,941 [Worker-358: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:17:14,941 [Worker-358: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-18 00:17:14,942 [Worker-358: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:17:14,942 [Worker-358: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-18 00:22:40,029 [Worker-365: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:22:40,029 [Worker-365: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-18 00:22:40,029 [Worker-365: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:22:40,029 [Worker-365: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-18 00:24:35,705 [Worker-367: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:24:35,705 [Worker-367: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-18 00:24:35,705 [Worker-367: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:24:35,705 [Worker-367: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-18 00:24:45,560 [Worker-364: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:24:45,560 [Worker-364: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-18 00:24:45,560 [Worker-364: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:24:45,560 [Worker-364: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-18 00:24:56,961 [Worker-367: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:24:56,961 [Worker-367: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-18 00:24:56,961 [Worker-367: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:24:56,961 [Worker-367: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-18 00:27:20,157 [Worker-372: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:27:20,157 [Worker-372: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-18 00:27:20,157 [Worker-372: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:27:20,157 [Worker-372: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-18 00:28:18,529 [Worker-364: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:28:18,529 [Worker-364: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-18 00:28:18,529 [Worker-364: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:28:18,529 [Worker-364: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-18 00:28:27,668 [Worker-371: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:28:27,668 [Worker-371: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-18 00:28:27,668 [Worker-371: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:28:27,668 [Worker-371: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-18 00:30:29,676 [Worker-372: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:30:29,676 [Worker-372: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-18 00:30:29,676 [Worker-372: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:30:29,676 [Worker-372: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-18 00:31:45,619 [Worker-373: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:31:45,619 [Worker-373: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-18 00:31:45,620 [Worker-373: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:31:45,620 [Worker-373: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-18 00:36:24,498 [Worker-376: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:36:24,498 [Worker-376: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-18 00:36:24,503 [Worker-376: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:36:24,503 [Worker-376: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-18 00:39:25,341 [Worker-380: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:39:25,341 [Worker-380: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-18 00:39:25,342 [Worker-380: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:39:25,342 [Worker-380: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-18 00:40:22,713 [Worker-380: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:40:22,713 [Worker-380: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-18 00:40:22,713 [Worker-380: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:40:22,713 [Worker-380: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
+2022-04-18 00:40:57,607 [Worker-379: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:40:57,607 [Worker-379: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\main\resources
+2022-04-18 00:40:57,607 [Worker-379: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-18 00:40:57,607 [Worker-379: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christopher\OneDrive - University of Salford\Year 2\Design Patterns\Assignment\jar_@00470183\sciencegame\src\test\resources
