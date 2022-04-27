@@ -1,0 +1,48 @@
+package aee926.sciencegame;
+
+import java.util.Random;
+
+public class Question {
+	private String question;
+	private String[] answers;
+	private String answer;
+	private int qSelection;
+	
+	public Question() {
+
+		Random random = new Random();
+		qSelection = random.nextInt(10);
+		
+		if(qSelection == 1)
+		{
+			question = "In which part of the body do the smallest bones occur?";
+			String[] answers = {"Ears", "Hands", "Feet", "Neck"}; 
+			this.answers = answers;
+			answer = "Ears";
+		}
+	}
+
+	public String getQuestion() {
+		return question;
+	}
+
+	public void setQuestion(String question) {
+		this.question = question;
+	}
+
+	public String[] getAnswers() {
+		return answers;
+	}
+
+	public void setAnswers(String[] answers) {
+		this.answers = answers;
+	}
+
+	public String getAnswer() {
+		return answer;
+	}
+
+	public void setAnswer(String answer) {
+		this.answer = answer;
+	}
+}

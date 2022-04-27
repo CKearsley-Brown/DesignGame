@@ -14,6 +14,10 @@ public class Factory implements FactoryIF{
 	public GameObject createProduct(String discrim, double x, double y) {
 		if(discrim.equals("cell"))
 			return new Item(gc,x,y);
+		if(discrim.equals("mucus"))
+			return new Trap(gc,x,y);
+		if(discrim.equals("enemy"))
+			return new Enemy(gc,x,y);
 		return null;
 	}
 

@@ -1,5 +1,0 @@
-module aee926.sciencegame {
-    requires javafx.controls;
-	requires javafx.graphics;
-    exports aee926.sciencegame;
-}

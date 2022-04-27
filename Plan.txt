@@ -1,0 +1,49 @@
+Design Patterns Plan
+
+Things I need to do:
+- Get an idea of what game to make for the primary school children. /
+- Come up with User Stories and make a product backlog. /
+- Plan workings of the game and select the most useable design patterns
+- Draw class diagrams and sequence diagram
+- Start coding
+- Write report (Keep this updated as you are working through the project, include everything orginally)
+
+Idea
+The game I'm going to create is a game where a character has to enter a labryinth to retrieve an item.
+Once they've retrieved this item, they have to leave from which they started. However, the labryith
+will be littered with traps and they're will be patroling enemies. If the character hits a trap, a 
+question will appear where they have a time limit to answer a question correctly. If they answer
+correctly, they can continue. However, if they answer incorrectly or if the timer runs out, it 
+will be game over. Also, if they are touched by an enemy, also the game will be over.
+
+As this will be a educational game that is based around science, the theme of the game should be 
+around a similar theme. Therefore, the game will be surrounded around human anatomy. The game will 
+be themed on disease where an invading virus must find and infect healthy cells. Once the virus infects
+all the cells, the virus may escape to furthur infect other areas of the body. White bloody cells
+will act as enemies that will kill the virus if it touches it. The traps will be mucas membranes 
+that require the virus to answer a question about anatomy to escape. 
+
+User Stories (Do parts of the software (actors) count with the user stories)
+- As a player, I want to move, so I can traverse the body.
+- As a player, I want to infect the cells, so I can complete the game objectives.
+- As a player, I want to escape the labryinth can complete the game when I've completed all objectives.
+- As a player, I want to be able to restart the game so I can try again.
+- As a player, I want to be able to answer a question to escape the traps.
+- As a player, I want to be able to evade the enemies of the game so I am not defeated.
+- As a player, I want to be congratulated to know I have beaten the game.
+
+Design Patterns to Use (Useful documents)
+https://refactoring.guru/design-patterns
+(Week 1 Java Summary and Key Terms)
+(Object Oriented Programming Week 2)
+(Responsibility Driven Design Week 3)
+(Application Structure and Class Diagrams Week 4)
+- Factory Week 6 (Will be used if there are different types of enemies)
+- Prototype Week 6
+- Singleton Week 6
+- MVC Week 8
+- Possibly Builder Pattern but I dont think so Week 9 (only if have different enemies)
+- Possibly Strategy Pattern but dont think so Week 10 (only if have different enemies)
+- Observer Pattern Week 10
+- Possibly Composite Pattern Week 11
+- Possibly Bridge Pattern Week 11 (if necessary as its decoupling)

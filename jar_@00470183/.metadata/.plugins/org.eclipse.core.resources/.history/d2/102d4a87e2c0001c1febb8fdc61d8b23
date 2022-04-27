@@ -1,0 +1,112 @@
+package aee926.sciencegame;
+
+import java.util.Random;
+
+public class Question {
+	private String question;
+	private String[] answers;
+	private String answer;
+	private int qSelection;
+	
+	public Question() {
+
+		Random random = new Random();
+		qSelection = random.nextInt(10);
+		
+		if(qSelection == 1)
+		{
+			question = "In which part of the body do the smallest bones occur?";
+			String[] answers = {"Ears", "Hands", "Feet", "Neck"}; 
+			this.answers = answers;
+			answer = "Ears";
+		}
+		else if(qSelection == 2)
+		{
+			question = "What is the average lifespan of a red blood cell?";
+			String[] answers = {"60 days", "90 days", "120 days", "150 days"}; 
+			this.answers = answers;
+			answer = "120 days";
+		}
+		else if(qSelection == 3)
+		{
+			question = "In our body, which kind of cells are the longest?";
+			String[] answers = {"The blood cells", "The stem cells", "The muscle cells", "The nerve cells"}; 
+			this.answers = answers;
+			answer = "The nerve cells";
+		}
+		else if(qSelection == 4)
+		{
+			question = "Which blood type has no antigens?";
+			String[] answers = {"A", "B", "AB", "O"}; 
+			this.answers = answers;
+			answer = "O";
+		}
+		else if(qSelection == 5)
+		{
+			question = "Which is the thickest wall in the heart?";
+			String[] answers = {"Left atrium", "Right atrium", "Left ventricle", "Right ventricle"}; 
+			this.answers = answers;
+			answer = "Left ventricle";
+		}
+		else if(qSelection == 6)
+		{
+			question = "How many dead skin cells do we shed in a minute?";
+			String[] answers = {"10,000", "20,000", "30,000", "40,000"}; 
+			this.answers = answers;
+			answer = "30,000";
+		}
+		else if(qSelection == 7)
+		{
+			question = "Water comprises how much of a percentage of our brain?";
+			String[] answers = {"20%", "40%", "60%", "80%"}; 
+			this.answers = answers;
+			answer = "80%";
+		}
+		else if(qSelection == 8)
+		{
+			question = "Which blood cells do not have a nucleus?";
+			String[] answers = {"Platelets", "White blood cells", "Purple blood cells", "Red blood cells"}; 
+			this.answers = answers;
+			answer = "Red blood cells";
+		}
+		else if(qSelection == 9)
+		{
+			question = "The disorder of which system causes the disease jaundice?";
+			String[] answers = {"The digestive system", "The immune System", "The nervous system", "The respiratory system"}; 
+			this.answers = answers;
+			answer = "The digestive system";
+		}
+		else if(qSelection == 10)
+		{
+			question = "The liver is responsible for the production of which vitamin in our bodies?";
+			String[] answers = {"60 days", "90 days", "120 days", "150 days"}; 
+			this.answers = answers;
+			answer = "120 days";
+		}
+		System.out.print(qSelection);
+	}
+
+	public String getQuestion() {
+		return question;
+	}
+
+	public void setQuestion(String question) {
+		this.question = question;
+	}
+
+	public String[] getAnswers() {
+		return answers;
+	}
+
+	public void setAnswers(String[] answers) {
+		this.answers = answers;
+	}
+
+	public String getAnswer() {
+		return answer;
+	}
+
+	public void setAnswer(String answer) {
+		this.answer = answer;
+	}
+}

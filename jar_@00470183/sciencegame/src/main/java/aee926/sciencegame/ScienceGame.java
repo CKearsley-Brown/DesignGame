@@ -20,13 +20,20 @@ import javafx.scene.text.TextAlignment;
 import javafx.stage.Stage;
 
 public class ScienceGame extends Application {
-	Pane root, gamePane;
-	Scene scene, gameScene;
-	Canvas canvas, gameCanvas;
-	GraphicsContext gc, gamegc;
+	Stage primaryStage;
+	Pane root, gamePane, losePane, winPane;
+	Scene scene, gameScene, loseScene, winScene;
+	Canvas canvas, gameCanvas, loseCanvas, winCanvas;
+	GraphicsContext gc, gamegc, losegc, wingc;
 	Label titleLabel = new Label();
 	Label gameDescription = new Label();
 	Button playButton = new Button();
+	Label counter = new Label();
+	int counterScore;
+	Label winTitle = new Label();
+	Label loseTitle = new Label();
+	Button restart = new Button();
+	Button exit = new Button();
 	Player player;
 	Map map;
 	ArrayList<GameObject> list = new ArrayList<GameObject>();
@@ -35,16 +42,16 @@ public class ScienceGame extends Application {
 
 		@Override
 		public void handle(KeyEvent keyEvent) {
-			if(keyEvent.getCode() == KeyCode.W) {
+			if(keyEvent.getCode() == KeyCode.W && player.trapped == false) {
 				map.checkPlayerMoveUp(player);
 			}
-			if(keyEvent.getCode() == KeyCode.S) {
+			if(keyEvent.getCode() == KeyCode.S && player.trapped == false) {
 				map.checkPlayerMoveDown(player);
 			}
-			if(keyEvent.getCode() == KeyCode.A) {
+			if(keyEvent.getCode() == KeyCode.A && player.trapped == false) {
 				map.checkPlayerMoveLeft(player);
 			}
-			if(keyEvent.getCode() == KeyCode.D) {
+			if(keyEvent.getCode() == KeyCode.D && player.trapped == false) {
 				map.checkPlayerMoveRight(player);
 			}
 		}};
@@ -59,7 +66,41 @@ public class ScienceGame extends Application {
 				for(GameObject obj:list) 
 				{
 					obj.update();
+					obj.intersects(player);
+					counterScore = player.itemsCollected;
+					counter.setText("Cells Infected: " + String.valueOf(counterScore) + "/4");
+					if(obj instanceof Trap && ((Trap) obj).run != 1)
+					{
+						((Trap) obj).intersectsPlayer(player, gamePane, gameScene);
+					}
+					if(player.trapped == false)
+						gameScene.setOnKeyPressed(keyHandler);
 				}
+				if(counterScore==4 && map.entrance(player)==true)
+				{
+					primaryStage.setScene(winScene);
+				}
+				if(player.dead == true)
+					primaryStage.setScene(loseScene);
+		}};
+	EventHandler<ActionEvent> restartBHandler = new EventHandler<ActionEvent>() {
+
+			@Override
+			public void handle(ActionEvent event) {
+				counterScore=0;
+				player = new Player(1,271,gamegc);
+				factory = new Factory(gamegc);
+				list.add(factory.createProduct("cell", 22, 22));
+				list.add(factory.createProduct("cell", 380, 452));
+				list.add(factory.createProduct("cell", 710, 242));
+				list.add(factory.createProduct("cell", 390, 142));
+				primaryStage.setScene(gameScene);
+			}};
+	EventHandler<ActionEvent> exitBHandler = new EventHandler<ActionEvent>() {
+
+		@Override
+		public void handle(ActionEvent event) {
+			System.exit(0);
 		}};
 
 	public static void main(String[] args) {
@@ -68,6 +109,7 @@ public class ScienceGame extends Application {
 
 	@Override
 	public void start(Stage primaryStage) throws Exception {
+		this.primaryStage=primaryStage;
 		//Title Scene
 		root = new Pane();
 		scene = new Scene(root,800,600);
@@ -115,18 +157,108 @@ public class ScienceGame extends Application {
 		//Canvas Design
 		gamePane.getChildren().add(gameCanvas);
 		gamegc.setFill(Color.DARKRED);
-		gamegc.fillRect(0,0,canvas.getWidth(),canvas.getHeight());
+		gamegc.fillRect(0,0,gameCanvas.getWidth(),gameCanvas.getHeight());
 		
 		//Game Page Design
-		player = new Player(1,271,gamegc);
 		map = new Map();
 		gamePane.getChildren().add(map.drawWalls());
+		player = new Player(1,271,gamegc);
 		gameScene.setOnKeyPressed(keyHandler);
+		counter.setTextFill(Color.web("white"));
+		counter.setLayoutX(630);
+		counter.setLayoutY(0);
+		counter.setFont(new Font("Arial", 20));
+		gamePane.getChildren().add(counter);
 		
 		factory = new Factory(gamegc);
-		list.add(factory.createProduct("cell", 20, 20));
+		list.add(factory.createProduct("cell", 22, 22));
+		list.add(factory.createProduct("cell", 380, 452));
+		list.add(factory.createProduct("cell", 710, 242));
+		list.add(factory.createProduct("cell", 390, 142));
+		list.add(factory.createProduct("mucus", 150, 210));
+		list.add(factory.createProduct("mucus", 90, 410));
+		list.add(factory.createProduct("mucus", 100, 500));
+		list.add(factory.createProduct("mucus", 210, 190));
+		list.add(factory.createProduct("mucus", 300, 110));
+		list.add(factory.createProduct("mucus", 310, 350));
+		list.add(factory.createProduct("mucus", 350, 500));
+		list.add(factory.createProduct("mucus", 520, 20));
+		list.add(factory.createProduct("mucus", 520, 160));
+		list.add(factory.createProduct("mucus", 590, 320));
+		list.add(factory.createProduct("mucus", 550, 430));
+		list.add(factory.createProduct("mucus", 580, 500));
+		list.add(factory.createProduct("mucus", 660, 80));
+		list.add(factory.createProduct("mucus", 660, 180));
+		list.add(factory.createProduct("mucus", 690, 500));
+		list.add(factory.createProduct("mucus", 750, 130));
+		list.add(factory.createProduct("enemy", 750, 130));
+		list.add(factory.createProduct("enemy", 300, 110));
+		list.add(factory.createProduct("enemy", 350, 500));
+		list.add(factory.createProduct("enemy", 660, 80));
+		list.add(factory.createProduct("enemy", 690, 500));
 		timer.start();
+		
 		//Game Over Scene
+		losePane = new Pane();
+		loseScene = new Scene(losePane,800,600);
+		loseCanvas = new Canvas(800,600);
+		losegc = loseCanvas.getGraphicsContext2D();
+		
+		//Canvas Design
+		losePane.getChildren().add(loseCanvas);
+		losegc.setFill(Color.BLACK);
+		losegc.fillRect(0, 0, loseCanvas.getWidth(), loseCanvas.getHeight());
+		
+		//Game Over Design
+		loseTitle.setText("GAME OVER!");
+		loseTitle.setLayoutX(scene.getWidth()/15);
+		loseTitle.setLayoutY(scene.getHeight()/6);
+		loseTitle.setFont(new Font("Arial", 45));
+		loseTitle.setTextFill(Color.web("white"));
+		losePane.getChildren().add(loseTitle);
+		
+		restart.setText("Restart");
+		restart.setLayoutX(scene.getWidth()/4);
+		restart.setLayoutY(scene.getHeight()/1.5);
+		losePane.getChildren().add(restart);
+		restart.setOnAction(restartBHandler);
+		
+		exit.setText("Exit");
+		exit.setLayoutX(scene.getWidth()/1.35);
+		exit.setLayoutY(scene.getHeight()/1.5);
+		losePane.getChildren().add(exit);
+		exit.setOnAction(exitBHandler);
+		
+		//Congratulations Scene
+		winPane = new Pane();
+		winScene = new Scene(winPane,800,600);
+		winCanvas = new Canvas(800,600);
+		wingc = winCanvas.getGraphicsContext2D();
+		
+		//Canvas Design
+		winPane.getChildren().add(winCanvas);
+		wingc.setFill(Color.BLACK);
+		wingc.fillRect(0, 0, winCanvas.getWidth(), winCanvas.getHeight());
+		
+		//Congratulations Design
+		winTitle.setText("CONGRATULATIONS! YOU WON!");
+		winTitle.setLayoutX(scene.getWidth()/15);
+		winTitle.setLayoutY(scene.getHeight()/6);
+		winTitle.setFont(new Font("Arial", 45));
+		winTitle.setTextFill(Color.web("white"));
+		winPane.getChildren().add(winTitle);
+		
+		restart.setText("Restart");
+		restart.setLayoutX(scene.getWidth()/4);
+		restart.setLayoutY(scene.getHeight()/1.5);
+		winPane.getChildren().add(restart);
+		restart.setOnAction(restartBHandler);
+		
+		exit.setText("Exit");
+		exit.setLayoutX(scene.getWidth()/1.35);
+		exit.setLayoutY(scene.getHeight()/1.5);
+		winPane.getChildren().add(exit);
+		exit.setOnAction(exitBHandler);
 	}
 
 }

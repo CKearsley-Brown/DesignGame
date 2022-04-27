@@ -5,22 +5,19 @@ import javafx.scene.image.Image;
 import javafx.scene.shape.Rectangle;
 
 public class Item extends GameObject {
-	private double x,y;
-	private GraphicsContext gc;
-	private Image img;
-	private double width=28, height=28;
-	protected Rectangle r;
 	
 	public Item(GraphicsContext gc, double x, double y) 
 	{
 		super(gc, x, y);
-		this.x = x;
-		this.y = y;
-		this.gc = gc;
-		r = new Rectangle(0,0,width,height);
+		width = 26;
+		height = 26;
+		r = new Rectangle(0,0,0,0);
 		img = new Image(this.getClass().getResourceAsStream("cell.png"));
+		update();
+		updateRectangle();
 	}
 	
+	@Override
 	public void updateRectangle()
 	{
 		r.setX(x);
@@ -32,6 +29,19 @@ public class Item extends GameObject {
 	@Override
 	public void update() {
 		super.update();
-		this.gc = gc;
+	}
+
+	@Override
+	public void intersects(Player player) {
+		if(player.r.intersects(this.r.getX(),this.r.getY(),this.r.getWidth(), this.r.getHeight()))
+		{
+			System.out.println("Item collision");
+			this.img = null;
+			r.setX(0);
+			r.setY(0);
+			r.setWidth(0);
+			r.setWidth(0);
+			player.itemsCollected+=1;
+		}
 	}
 }

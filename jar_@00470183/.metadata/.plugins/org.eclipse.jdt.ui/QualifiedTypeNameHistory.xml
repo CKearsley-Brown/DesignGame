@@ -1,4 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javafx.scene.input.KeyEvent"/>
+    <fullyQualifiedTypeName name="javafx.scene.input.KeyCode"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="javafx.scene.Node"/>
+    <fullyQualifiedTypeName name="javafx.scene.control.TreeView"/>
+    <fullyQualifiedTypeName name="javafx.scene.Group"/>
+    <fullyQualifiedTypeName name="javafx.scene.shape.Shape"/>
     <fullyQualifiedTypeName name="javafx.scene.canvas.GraphicsContext"/>
+    <fullyQualifiedTypeName name="javafx.scene.paint.Color"/>
+    <fullyQualifiedTypeName name="javafx.scene.shape.Rectangle"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="javafx.scene.control.Label"/>
+    <fullyQualifiedTypeName name="javafx.scene.layout.Pane"/>
+    <fullyQualifiedTypeName name="javafx.scene.Scene"/>
+    <fullyQualifiedTypeName name="javafx.animation.SequentialTransition"/>
+    <fullyQualifiedTypeName name="javafx.animation.PauseTransition"/>
+    <fullyQualifiedTypeName name="javafx.util.Duration"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.ScheduledExecutorService"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.Executors"/>
+    <fullyQualifiedTypeName name="javax.swing.Timer"/>
+    <fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
+    <fullyQualifiedTypeName name="java.util.Timer"/>
+    <fullyQualifiedTypeName name="java.util.TimerTask"/>
+    <fullyQualifiedTypeName name="javax.swing.JLabel"/>
 </qualifiedTypeNameHistroy>
