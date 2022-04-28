@@ -39,43 +39,44 @@ public class Trap extends GameObject {
 			if(keyEvent.getCode() == KeyCode.W) {
 				if(q.getAnswers()[0].equals(q.getAnswer()))
 				{
-					correct();
+					rmDisplay();
 				}
 				else
 				{
-					correct();
+					rmDisplay();
 					player.dead = true;
 				}
 			}
 			if(keyEvent.getCode() == KeyCode.A) {
 				if(q.getAnswers()[1].equals(q.getAnswer()))
 				{
-					correct();
+					rmDisplay();
 				}
 				else
 				{
-					correct();
+					rmDisplay();
 					player.dead = true;
 				}
 			}
 			if(keyEvent.getCode() == KeyCode.D) {
 				if(q.getAnswers()[2].equals(q.getAnswer()))
 				{
-					correct();
+					rmDisplay();
 				}
 				else
 				{
-					correct();
+					rmDisplay();
 					player.dead = true;
 				}
 			}
 			if(keyEvent.getCode() == KeyCode.S) {
 				if(q.getAnswers()[3].equals(q.getAnswer()))
 				{
-					correct();
+					rmDisplay();
 				}
 				else
 				{
+					rmDisplay();
 					player.dead = true;
 				}
 			}
@@ -97,13 +98,13 @@ public class Trap extends GameObject {
 		update();
 	}
 	
-	public void correct()
+	public void rmDisplay()
 	{
 		r = new Rectangle(0,0,0,0);
 		img = new Image(this.getClass().getResourceAsStream("defeated_mucus.png"));
 		player.trapped=false;
+		correct=true;
 		//System.out.println("correct" + player.trapped);
-		correct = true;
 		
 		question.setText("");
 		countdown.setText("");

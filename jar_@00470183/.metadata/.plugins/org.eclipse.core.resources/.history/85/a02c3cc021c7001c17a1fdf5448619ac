@@ -1,0 +1,204 @@
+package aee926.sciencegame;
+
+import java.util.Timer;
+import java.util.TimerTask;
+
+import javafx.event.EventHandler;
+import javafx.scene.Scene;
+import javafx.scene.canvas.GraphicsContext;
+import javafx.scene.control.Label;
+import javafx.scene.image.Image;
+import javafx.scene.input.KeyCode;
+import javafx.scene.input.KeyEvent;
+import javafx.scene.layout.Pane;
+import javafx.scene.paint.Color;
+import javafx.scene.shape.Rectangle;
+import javafx.scene.text.Font;
+
+public class Trap extends GameObject {
+	private Question q;
+	private int clock;
+	protected int run;
+	private boolean correct;
+	protected Player player;
+	protected Pane pane;
+	protected Scene scene;
+	Label question, countdown, answer1, answer2, answer3, answer4;
+	EventHandler<KeyEvent> releaseHandler = new EventHandler<KeyEvent> () {
+
+		@Override
+		public void handle(KeyEvent keyEvent) {
+			if(keyEvent.getCode() == KeyCode.W || keyEvent.getCode() == KeyCode.A || keyEvent.getCode() == KeyCode.D || keyEvent.getCode() == KeyCode.S) {
+				scene.setOnKeyPressed(keyHandler);
+			}
+		}};
+	EventHandler<KeyEvent> keyHandler = new EventHandler<KeyEvent> () {
+
+		@Override
+		public void handle(KeyEvent keyEvent) {
+			if(keyEvent.getCode() == KeyCode.W) {
+				if(q.getAnswers()[0].equals(q.getAnswer()))
+				{
+					correct();
+				}
+				else
+				{
+					player.dead = true;
+				}
+			}
+			if(keyEvent.getCode() == KeyCode.A) {
+				if(q.getAnswers()[1].equals(q.getAnswer()))
+				{
+					correct();
+				}
+				else
+				{
+					player.dead = true;
+				}
+			}
+			if(keyEvent.getCode() == KeyCode.D) {
+				if(q.getAnswers()[2].equals(q.getAnswer()))
+				{
+					correct();
+				}
+				else
+				{
+					player.dead = true;
+				}
+			}
+			if(keyEvent.getCode() == KeyCode.S) {
+				if(q.getAnswers()[3].equals(q.getAnswer()))
+				{
+					correct();
+				}
+				else
+				{
+					player.dead = true;
+				}
+			}
+		}};
+
+	public Trap(GraphicsContext gc, double x, double y) {
+		super(gc, x, y);
+		width = 30;
+		height = 30;
+		r = new Rectangle(0,0,30,30);
+		update();
+		updateRectangle();
+		clock=10;
+	}
+	
+	public void reveal()
+	{
+		img = new Image(this.getClass().getResourceAsStream("mucus.png"));
+		update();
+	}
+	
+	public void correct()
+	{
+		r = new Rectangle(0,0,0,0);
+		img = new Image(this.getClass().getResourceAsStream("defeated_mucus.png"));
+		player.trapped=false;
+		//System.out.println("correct" + player.trapped);
+		correct = true;
+		
+		//question.setText("");
+		//countdown.setText("");
+		//answer1.setText("");
+		//answer2.setText("");
+		//answer3.setText("");
+		//answer4.setText("");
+		
+		ScienceGame.nullGameObject(this);
+	}
+	
+	public void countdownTimer() {
+		Timer timer = new Timer();
+		TimerTask task = new TimerTask() {
+
+			@Override
+			public void run() {
+				clock--;
+				
+				System.out.println(""+clock);
+				if(clock==0)
+				{
+					timer.cancel();
+					if(correct!=true)
+					{
+						player.dead = true;
+					}
+				}
+			}};
+			
+		timer.scheduleAtFixedRate(task, 1000, 1000);
+	}
+
+	public void intersectsPlayer(Player player, Pane pane, Scene scene) {
+		if(player.r.intersects(this.r.getX(),this.r.getY(),this.r.getWidth(), this.r.getHeight()))
+		{
+			this.player=player;
+			//System.out.println("Trap collision");
+			player.trapped = true;
+			this.scene = scene;
+			reveal();
+			//r.setX(0);
+			//r.setY(0);
+			//r.setWidth(0);
+			//r.setWidth(0);
+			q = new Question();
+			countdown = new Label();
+			countdown.setText("Answer within 10 seconds");
+			countdown.setLayoutX(420);
+			countdown.setLayoutY(20);
+			countdown.setFont(new Font("Arial", 30));
+			countdown.setTextFill(Color.web("white"));
+			pane.getChildren().add(countdown);
+			
+			question= new Label();
+			question.setText(q.getQuestion());
+			question.setLayoutX(53);
+			question.setLayoutY(100);
+			question.setFont(new Font("Arial", 25));
+			question.setTextFill(Color.web("white"));
+			pane.getChildren().add(question);
+			
+			answer1 = new Label();
+			answer1.setText("W - " + q.getAnswers()[0]);
+			answer1.setLayoutX(300);
+			answer1.setLayoutY(250);
+			answer1.setFont(new Font("Arial", 20));
+			answer1.setTextFill(Color.web("white"));
+			pane.getChildren().add(answer1);
+			
+			answer2 = new Label();
+			answer2.setText("A - " + q.getAnswers()[1]);
+			answer2.setLayoutX(53);
+			answer2.setLayoutY(300);
+			answer2.setFont(new Font("Arial", 20));
+			answer2.setTextFill(Color.web("white"));
+			pane.getChildren().add(answer2);
+			
+			answer3= new Label();
+			answer3.setText("D - " + q.getAnswers()[2]);
+			answer3.setLayoutX(550);
+			answer3.setLayoutY(300);
+			answer3.setFont(new Font("Arial", 20));
+			answer3.setTextFill(Color.web("white"));
+			pane.getChildren().add(answer3);
+			
+			answer4= new Label();
+			answer4.setText("S - " + q.getAnswers()[3]);
+			answer4.setLayoutX(300);
+			answer4.setLayoutY(350);
+			answer4.setFont(new Font("Arial", 20));
+			answer4.setTextFill(Color.web("white"));
+			pane.getChildren().add(answer4);
+			
+			run=1;
+			scene.setOnKeyReleased(releaseHandler);
+			
+			countdownTimer();
+		}
+	}
+}

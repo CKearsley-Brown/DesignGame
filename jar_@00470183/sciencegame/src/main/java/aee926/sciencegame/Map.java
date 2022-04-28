@@ -17,15 +17,11 @@ abstract class Graphic {
 }
 
 class Wall extends Graphic {
-	private double x, y, width, height, arcWidth, arcHeight;
+	private double arcWidth, arcHeight;
 	protected Rectangle r = new Rectangle();
 	
 	public Wall(double x, double y, double width, double height)
 	{
-		this.x=x;
-		this.y=y;
-		this.width=width;
-		this.height=height;
 		arcWidth=0;
 		arcHeight=0;
 		
@@ -97,15 +93,11 @@ class Wall extends Graphic {
 }
 
 class Platform extends Graphic{
-	private double x, y, width, height, arcWidth, arcHeight;
+	private double arcWidth, arcHeight;
 	protected Rectangle r = new Rectangle();
 	
 	public Platform(double x, double y, double width, double height)
 	{
-		this.x=x;
-		this.y=y;
-		this.width=width;
-		this.height=height;
 		arcWidth=0;
 		arcHeight=0;
 		

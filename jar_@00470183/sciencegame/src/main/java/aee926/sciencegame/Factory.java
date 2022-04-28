@@ -11,7 +11,7 @@ public class Factory implements FactoryIF{
 	}
 
 	@Override
-	public GameObject createProduct(String discrim, double x, double y) {
+	public GameObject createGameObject(String discrim, double x, double y) {
 		if(discrim.equals("player"))
 		{
 			Player player = Player.getInstance(gc, x, y);
@@ -25,7 +25,7 @@ public class Factory implements FactoryIF{
 	}
 
 	@Override
-	public GameObject createProduct(String discrim, double x, double y, boolean direction) {
+	public GameObject createGameObject(String discrim, double x, double y, boolean direction) {
 		if(discrim.equals("enemy"))
 			return new Enemy(gc,x,y,direction);
 		return null;
