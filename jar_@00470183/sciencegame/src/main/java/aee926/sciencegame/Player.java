@@ -5,18 +5,33 @@ import javafx.scene.image.Image;
 import javafx.scene.shape.Rectangle;
 
 public class Player extends GameObject {
+	private static Player instance = null;
+	
 	private Image img;
 	private double width=28, height=28;
 	protected Rectangle r;
-	protected int itemsCollected;
+	protected int itemsCollected=3;
 	protected boolean trapped;
 	protected boolean dead;
 	
-	public Player(double x, double y, GraphicsContext gc) {
+	private Player(GraphicsContext gc, double x, double y) {
 		super(gc,x,y);
 		r = new Rectangle(0,0,width,height);
 		img = new Image(this.getClass().getResourceAsStream("virus.png"));
 		boolean dead = false;
+	}
+	
+	public static Player getInstance(GraphicsContext gc, double x, double y)
+	{
+		if(instance == null) {
+			instance = new Player(gc,x,y);
+		}
+		return instance;
+	}
+	
+	public void setCordinates() {
+		x=1;
+		y=271;
 	}
 	
 	public void move() {
@@ -46,5 +61,32 @@ public class Player extends GameObject {
 		r.setY(y);
 		r.setWidth(width);
 		r.setHeight(height);
+	}
+	
+	@Override
+	public boolean checkWallCollision(Wall wall)
+	{
+		if(this.r.intersects(wall.r.getX(),wall.r.getY(),wall.r.getWidth(), wall.r.getHeight()))
+		{
+			System.out.println("Collision");
+			return true;
+		}
+		else
+		{
+			return false;
+		}
+	}
+	
+	public boolean checkPlatformCollision(Platform p)
+	{
+		if(this.r.intersects(p.r.getX(),p.r.getY(),p.r.getWidth(), p.r.getHeight()))
+		{
+			System.out.println("Platform Collision");
+			return true;
+		}
+		else
+		{
+			return false;
+		}
 	}
 }

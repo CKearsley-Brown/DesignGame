@@ -1,0 +1,46 @@
+package aee926.sciencegame;
+
+import javafx.scene.canvas.GraphicsContext;
+import javafx.scene.image.Image;
+import javafx.scene.shape.Rectangle;
+
+public class Enemy extends GameObject {
+	protected double dx,dy;
+	protected char direction;
+
+	public Enemy(GraphicsContext gc, double x, double y) {
+		super(gc, x, y);
+		width = 28;
+		height = 28;
+		dx=10;
+		dy=10;
+		r = new Rectangle(0,0,28,28);
+		img = new Image(this.getClass().getResourceAsStream("whitebloodcell.png"));
+		update();
+		updateRectangle();
+	}
+	
+	public void move(Map map) {
+		if(map.checkEnemyCollision(this) == true);
+			this.changeDirection();
+		x+=dx;
+		updateRectangle();
+	}
+	
+	public void changeDirection() {
+		dx=-dx;
+		//dy=-dy;
+	}
+
+	@Override
+	public boolean checkWallCollision(Wall wall) {
+		if(this.r.intersects(wall.r.getX(),wall.r.getY(),wall.r.getWidth(), wall.r.getHeight()))
+		{
+			System.out.println("Wall Collision");
+			return true;
+		}
+		{
+			return false;
+		}
+	}
+}

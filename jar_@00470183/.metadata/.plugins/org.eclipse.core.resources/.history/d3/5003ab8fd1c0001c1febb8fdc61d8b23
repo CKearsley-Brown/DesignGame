@@ -1,5 +1,0 @@
-package aee926.sciencegame;
-
-public class Enemy extends GameObject {
-
-}

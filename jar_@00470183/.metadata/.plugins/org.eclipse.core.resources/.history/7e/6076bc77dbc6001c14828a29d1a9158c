@@ -1,0 +1,372 @@
+package aee926.sciencegame;
+
+import java.util.ArrayList;
+
+import javafx.scene.Group;
+import javafx.scene.Node;
+import javafx.scene.paint.Color;
+import javafx.scene.shape.Rectangle;
+
+abstract class Graphic {
+	public abstract Node draw();
+	public abstract boolean checkPlayerCollision(Player player);
+	//public abstract boolean checkPlayerMoveUp(Player player);
+	//public abstract boolean checkPlayerMoveDown(Player player);
+	//public abstract boolean checkPlayerMoveLeft(Player player);
+	//public abstract boolean checkPlayerMoveRight(Player player);
+	
+}
+
+class Wall extends Graphic {
+	private double x, y, width, height, arcWidth, arcHeight;
+	protected Rectangle r = new Rectangle();
+	
+	public Wall(double x, double y, double width, double height)
+	{
+		this.x=x;
+		this.y=y;
+		this.width=width;
+		this.height=height;
+		arcWidth=0;
+		arcHeight=0;
+		
+		r.setX(x);
+		r.setY(y);
+		r.setWidth(width);
+		r.setHeight(height);
+		r.setArcWidth(arcWidth);
+		r.setArcHeight(arcHeight);
+	}
+	
+	public boolean checkPlayerCollision(Player player)
+	{
+		return player.checkWallCollision(this);
+	}
+	
+	public Node draw() {
+		return r;
+	}
+	
+	public boolean checkPlayerMoveUp(Player player)
+	{
+		boolean distanced=true;
+		if(player.r.intersects(this.r.getX(),this.r.getY(),this.r.getWidth(), this.r.getHeight()+3))
+		{
+			distanced = false;
+			return distanced;
+		}
+		return distanced;
+	}
+	
+	public boolean checkPlayerMoveDown(Player player)
+	{
+		boolean distanced=true;
+		if(player.r.intersects(this.r.getX(),this.r.getY()-3,this.r.getWidth(), this.r.getHeight()))
+		{
+			distanced = false;
+			return distanced;
+		}
+		return distanced;
+	}
+	
+	public boolean checkPlayerMoveLeft(Player player)
+	{
+		boolean distanced=true;
+		if(player.r.intersects(this.r.getX(),this.r.getY(),this.r.getWidth()+3, this.r.getHeight()))
+		{
+			distanced = false;
+			return distanced;
+		}
+		return distanced;
+	}
+	
+	public boolean checkPlayerMoveRight(Player player)
+	{
+		boolean distanced=true;
+		if(player.r.intersects(this.r.getX()-3,this.r.getY(),this.r.getWidth(), this.r.getHeight()))
+		{
+			distanced = false;
+			return distanced;
+		}
+		return distanced;
+	}
+}
+
+class Platform extends Graphic{
+	private double x, y, width, height, arcWidth, arcHeight;
+	protected Rectangle r = new Rectangle();
+	
+	public Platform(double x, double y, double width, double height)
+	{
+		this.x=x;
+		this.y=y;
+		this.width=width;
+		this.height=height;
+		arcWidth=0;
+		arcHeight=0;
+		
+		r.setX(x);
+		r.setY(y);
+		r.setWidth(width);
+		r.setHeight(height);
+		r.setArcWidth(arcWidth);
+		r.setArcHeight(arcHeight);
+		r.setFill(Color.PINK);
+	}
+
+	@Override
+	public Node draw() {
+		return r;
+	}
+
+	@Override
+	public boolean checkPlayerCollision(Player player) {
+		boolean distanced = true;
+		if(player.r.intersects(this.r.getX(),this.r.getY(),this.r.getWidth(), this.r.getHeight()))
+		{
+			distanced = false;
+		}
+		return distanced;
+	}
+}
+
+class Area extends Graphic {
+	public ArrayList<Graphic> area = new ArrayList<Graphic>();
+	public ArrayList<Wall> walls = new ArrayList<Wall>();
+	Group g = new Group();
+	
+	public Area()
+	{
+		
+	}
+	
+	public void add(Graphic wall)
+	{
+		area.add(wall);
+		if(wall instanceof Wall)
+			walls.add((Wall) wall);
+	}
+	
+	public boolean checkPlayerCollision(Player player)
+	{
+		boolean test = true;
+		for (Graphic d:area)
+		{
+			if(d.checkPlayerCollision(player) == true)
+			{
+				test = false;
+				break;
+			}
+		}
+		return test;
+	}
+	
+	public Node draw() {
+		for (Graphic d:area)
+		{
+			Node n = d.draw();
+			g.getChildren().add(n);
+		}
+		return g;
+	}
+	
+	public boolean checkPlayerMoveUp(Player player)
+	{
+		boolean test = true;
+		for (Wall d:walls)
+		{
+			if(d.checkPlayerMoveUp(player)==false)
+			{
+				test=false;
+				break;
+			};
+		}
+		return test;
+	}
+	
+	public boolean checkPlayerMoveDown(Player player)
+	{
+		boolean test = true;
+		for (Wall d:walls)
+		{
+			if(d.checkPlayerMoveDown(player)==false)
+			{
+				test=false;
+				break;
+			};
+		}
+		return test;
+	}
+	
+	public boolean checkPlayerMoveLeft(Player player)
+	{
+		boolean test = true;
+		for (Wall d:walls)
+		{
+			if(d.checkPlayerMoveLeft(player)==false)
+			{
+				test=false;
+				break;
+			};
+		}
+		return test;
+	}
+	
+	public boolean checkPlayerMoveRight(Player player)
+	{
+		boolean test = true;
+		for (Wall d:walls)
+		{
+			if(d.checkPlayerMoveRight(player)==false)
+			{
+				test=false;
+				break;
+			};
+		}
+		return test;
+	}
+}
+
+public class Map {
+	Area area;
+	
+	public Map() {
+		area = new Area();
+		Wall w1 = new Wall(0,0,800,20);
+		Wall w2 = new Wall(780,0,20,600);
+		Wall w3 = new Wall(0,580,800,20);
+		Wall w4 = new Wall(0,0,20,270);
+		Wall w5 = new Wall(0,300,20,300);
+		Wall w6 = new Wall(50,50,100,50);
+		Wall w7 = new Wall(50,130,100,20);
+		Wall w8 = new Wall(20,180,130,90);
+		Wall w9 = new Wall(20,300,130,30);
+		Wall w10 = new Wall(50,360,100,50);
+		Wall w11 = new Wall(50,440,100,60);
+		Wall w12 = new Wall(50,530,140,20);
+		Wall w13 = new Wall(180,50,30,260);
+		Wall w14 = new Wall(180,340,30,110);
+		Wall w15 = new Wall(180,480,30,20);
+		Wall w16 = new Wall(240,50,350,30);
+		Wall w17 = new Wall(330,80,150,60);
+		Wall w18 = new Wall(240,110,60,30);
+		Wall w19 = new Wall(240,170,60,70);
+		Wall w20 = new Wall(240,270,350,10);
+		Wall w21 = new Wall(240,310,350,40);
+		Wall w22 = new Wall(240,380,40,70);
+		Wall w23 = new Wall(240,480,30,20);
+		Wall w24 = new Wall(220,530,230,20);
+		Wall w25 = new Wall(330,170,100,40);
+		Wall w26 = new Wall(330,210,140,30);
+		Wall w27 = new Wall(310,380,30,110);
+		Wall w28 = new Wall(300,480,250,20);
+		Wall w29 = new Wall(450,380,30,100);
+		Wall w30 = new Wall(370,380,50,70);
+		Wall w31 = new Wall(510,110,80,30);
+		Wall w32 = new Wall(460,170,60,10);
+		Wall w33 = new Wall(550,170,40,10);
+		Wall w34 = new Wall(500,210,90,30);
+		Wall w35 = new Wall(510,380,40,30);
+		Wall w36 = new Wall(510,440,40,10);
+		Wall w37 = new Wall(480,530,70,50);
+		Wall w38 = new Wall(620,50,40,450);
+		Wall w39 = new Wall(690,50,60,190);
+		Wall w40 = new Wall(690,270,60,60);
+		Wall w41 = new Wall(690,360,60,50);
+		Wall w42 = new Wall(690,440,20,60);
+		Wall w43 = new Wall(740,440,10,60);
+		Wall w44 = new Wall(580,530,170,20);
+		Wall w45 = new Wall(580,380,10,120);
+		Wall w46 = new Wall(0,260,1,120);
+		Platform p = new Platform(0,270,5,30);
+		
+		area.add(w1);
+		area.add(w2);
+		area.add(w3);
+		area.add(w4);
+		area.add(w5);
+		area.add(w6);
+		area.add(w7);
+		area.add(w8);
+		area.add(w9);
+		area.add(w10);
+		area.add(w11);
+		area.add(w12);
+		area.add(w13);
+		area.add(w14);
+		area.add(w15);
+		area.add(w16);
+		area.add(w17);
+		area.add(w18);
+		area.add(w19);
+		area.add(w20);
+		area.add(w21);
+		area.add(w22);
+		area.add(w23);
+		area.add(w24);
+		area.add(w25);
+		area.add(w26);
+		area.add(w27);
+		area.add(w28);
+		area.add(w29);
+		area.add(w30);
+		area.add(w31);
+		area.add(w32);
+		area.add(w33);
+		area.add(w34);
+		area.add(w35);
+		area.add(w36);
+		area.add(w37);
+		area.add(w38);
+		area.add(w39);
+		area.add(w40);
+		area.add(w41);
+		area.add(w42);
+		area.add(w43);
+		area.add(w44);
+		area.add(w45);
+		area.add(w46);
+		area.add(p);
+	}
+	
+	Node drawWalls()
+	{	
+		Group group = new Group();
+		group.getChildren().add(area.draw());
+		return group;
+	}
+	
+	void checkCollision(Player player)
+	{
+		area.checkCollision(player);
+	}
+	
+	void checkPlayerMoveUp(Player player)
+	{
+		if(area.checkPlayerMoveUp(player)==true)
+			player.moveUp();
+	}
+	
+	void checkPlayerMoveDown(Player player)
+	{
+		if(area.checkPlayerMoveDown(player)==true)
+			player.moveDown();
+	}
+	
+	void checkPlayerMoveLeft(Player player)
+	{
+		if(area.checkPlayerMoveLeft(player)==true)
+			player.moveLeft();
+	}
+	
+	void checkPlayerMoveRight(Player player)
+	{
+		if(area.checkPlayerMoveRight(player)==true)
+			player.moveRight();
+	}
+	
+	boolean entrance(Player player)
+	{
+		return area.checkCollision(player);
+	}
+}

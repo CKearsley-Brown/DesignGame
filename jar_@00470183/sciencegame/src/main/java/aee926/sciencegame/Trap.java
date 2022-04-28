@@ -43,6 +43,7 @@ public class Trap extends GameObject {
 				}
 				else
 				{
+					correct();
 					player.dead = true;
 				}
 			}
@@ -53,6 +54,7 @@ public class Trap extends GameObject {
 				}
 				else
 				{
+					correct();
 					player.dead = true;
 				}
 			}
@@ -63,6 +65,7 @@ public class Trap extends GameObject {
 				}
 				else
 				{
+					correct();
 					player.dead = true;
 				}
 			}
@@ -157,7 +160,7 @@ public class Trap extends GameObject {
 			question.setText(q.getQuestion());
 			question.setLayoutX(53);
 			question.setLayoutY(100);
-			question.setFont(new Font("Arial", 30));
+			question.setFont(new Font("Arial", 25));
 			question.setTextFill(Color.web("white"));
 			pane.getChildren().add(question);
 			

@@ -14,7 +14,6 @@ abstract class Graphic {
 	//public abstract boolean checkPlayerMoveDown(Player player);
 	//public abstract boolean checkPlayerMoveLeft(Player player);
 	//public abstract boolean checkPlayerMoveRight(Player player);
-	
 }
 
 class Wall extends Graphic {
@@ -40,11 +39,12 @@ class Wall extends Graphic {
 	
 	public boolean checkPlayerCollision(Player player)
 	{
-		if(player.r.intersects(this.r.getX(),this.r.getY(),this.r.getWidth(), this.r.getHeight()))
-		{
-			System.out.println("Collision");
-		}
-		return false;
+		return player.checkWallCollision(this);
+	}
+	
+	public boolean checkEnemyCollision(Enemy enemy)
+	{
+		return enemy.checkWallCollision(this);
 	}
 	
 	public Node draw() {
@@ -125,12 +125,7 @@ class Platform extends Graphic{
 
 	@Override
 	public boolean checkPlayerCollision(Player player) {
-		boolean distanced = true;
-		if(player.r.intersects(this.r.getX(),this.r.getY(),this.r.getWidth(), this.r.getHeight()))
-		{
-			distanced = false;
-		}
-		return distanced;
+		return player.checkPlatformCollision(this);
 	}
 }
 
@@ -139,30 +134,11 @@ class Area extends Graphic {
 	public ArrayList<Wall> walls = new ArrayList<Wall>();
 	Group g = new Group();
 	
-	public Area()
+	public void add(Graphic g)
 	{
-		
-	}
-	
-	public void add(Graphic wall)
-	{
-		area.add(wall);
-		if(wall instanceof Wall)
-			walls.add((Wall) wall);
-	}
-	
-	public boolean checkPlayerCollision(Player player)
-	{
-		boolean test = true;
-		for (Graphic d:area)
-		{
-			if(d.checkPlayerCollision(player) == true)
-			{
-				test = false;
-				break;
-			}
-		}
-		return test;
+		area.add(g);
+		if(g instanceof Wall)
+			walls.add((Wall) g);
 	}
 	
 	public Node draw() {
@@ -172,6 +148,34 @@ class Area extends Graphic {
 			g.getChildren().add(n);
 		}
 		return g;
+	}
+	
+	public boolean checkPlayerCollision(Player player)
+	{
+		boolean test = false;
+		for (Graphic d:area)
+		{
+			if(d.checkPlayerCollision(player) == true)
+			{
+				test = true;
+				break;
+			}
+		}
+		return test;
+	}
+	
+	public boolean checkEnemyCollision(Enemy enemy)
+	{
+		boolean test = false;
+		for (Wall d:walls)
+		{
+			if(d.checkEnemyCollision(enemy) == true)
+			{
+				test = true;
+				break;
+			}
+		}
+		return test;
 	}
 	
 	public boolean checkPlayerMoveUp(Player player)
@@ -340,9 +344,24 @@ public class Map {
 		return group;
 	}
 	
-	void checkCollision(Player player)
+	boolean checkPlayerCollision(Player player)
 	{
-		area.checkPlayerCollision(player);
+		return area.checkPlayerCollision(player);
+	}
+	
+	boolean checkEnemyCollision(Enemy enemy)
+	{
+		boolean test = false;
+		if(area.checkEnemyCollision(enemy) == true)
+		{
+			test = true;
+		}
+		return test;
+	}
+	
+	boolean entrance(Player player)
+	{
+		return area.checkPlayerCollision(player);
 	}
 	
 	void checkPlayerMoveUp(Player player)
@@ -367,10 +386,5 @@ public class Map {
 	{
 		if(area.checkPlayerMoveRight(player)==true)
 			player.moveRight();
-	}
-	
-	boolean entrance(Player player)
-	{
-		return area.checkPlayerCollision(player);
 	}
 }

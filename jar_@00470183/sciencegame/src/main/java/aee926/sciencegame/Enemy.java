@@ -6,37 +6,55 @@ import javafx.scene.shape.Rectangle;
 
 public class Enemy extends GameObject {
 	protected double dx,dy;
+	protected boolean direction;
 
-	public Enemy(GraphicsContext gc, double x, double y) {
+	public Enemy(GraphicsContext gc, double x, double y, boolean direction) {
 		super(gc, x, y);
-		width = 30;
-		height = 30;
-		dx=10;
-		dy=10;
-		r = new Rectangle(0,0,30,30);
+		width = 28;
+		height = 28;
+		this.direction = direction;
+		dx=1;
+		dy=1;
+		r = new Rectangle(0,0,28,28);
 		img = new Image(this.getClass().getResourceAsStream("whitebloodcell.png"));
 		update();
 		updateRectangle();
 	}
 	
-	public void move() {
-		gc.drawImage(img, x, y, width, height);
+	public void move(Map map) {
+		if(map.checkEnemyCollision(this) == true)
+			this.changeDirection();
+		if(direction == true)
+			x+=dx;
+		else
+			y+=dy;
 		updateRectangle();
 	}
 	
-	public void moveUp() {
-		
+	public void changeDirection() {
+		if(direction == true)
+			dx=-dx;
+		else
+			dy=-dy;
 	}
-	
-	public void moveDown() {
-		
+
+	@Override
+	public boolean checkWallCollision(Wall wall) {
+		if(this.r.intersects(wall.r.getX(),wall.r.getY(),wall.r.getWidth(), wall.r.getHeight()))
+		{
+			System.out.println("Wall Collision");
+			return true;
+		}
+		{
+			return false;
+		}
 	}
-	
-	public void moveLeft() {
-		
-	}
-	
-	public void moveRight() {
-		
+
+	@Override
+	public void intersects(Player player) {
+		if(player.r.intersects(this.r.getX(),this.r.getY(),this.r.getWidth(), this.r.getHeight()))
+		{
+			player.dead = true;
+		}
 	}
 }

@@ -73,7 +73,7 @@ public class Question {
 		else if(qSelection == 8)
 		{
 			question = "The disorder of which system causes the disease jaundice?";
-			String[] answers = {"The digestive system", "The immune System", "The nervous system", "The respiratory system"}; 
+			String[] answers = {"The digestive system", "The immune system", "The nervous system", "The respiratory system"}; 
 			this.answers = answers;
 			answer = "The digestive system";
 		}
